@@ -1,3 +1,3 @@
-ist vedio - introduction of c language done 
+1st vedio - introduction of c language done 
 
 
